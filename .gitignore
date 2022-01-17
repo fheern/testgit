@@ -1,1 +1,7 @@
 infospascommit.txt
+
+#ignorer tout les png:
+*.png
+
+#ignorer tout un dossier:
+/bootstrap
